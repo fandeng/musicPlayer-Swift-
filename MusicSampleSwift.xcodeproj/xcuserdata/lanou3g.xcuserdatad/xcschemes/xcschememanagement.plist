@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MusicSampleSwift.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C2130BCF1BD1DAF100E47433</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C2130BE31BD1DAF100E47433</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C2130BEE1BD1DAF100E47433</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
